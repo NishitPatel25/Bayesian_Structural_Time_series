@@ -45,10 +45,5 @@ pip install pandas numpy matplotlib statsmodels pmdarima
   - **statsmodels**: Provides the ARIMA and SARIMA models used for time series forecasting.
   - **pmdarima**: Utilized for the Auto-ARIMA model, which automatically selects the best ARIMA parameters.
 
-- **Inspirations and Resources**:
-  - [Time Series Forecasting with ARIMA](https://www.statsmodels.org/stable/examples/notebooks/generated/tsa.html): Documentation and tutorials for ARIMA models.
-  - [SARIMA Model](https://www.statsmodels.org/stable/examples/notebooks/generated/tsa_seasonal.html): Detailed guide on implementing SARIMA models.
-  - [Auto-ARIMA](https://github.com/alkaline-ml/pmdarima): The library used for automatic ARIMA model selection and tuning.
-
 - **Community Support**:
   - Thanks to the broader data science and machine learning community for sharing knowledge and resources that facilitated this project.
